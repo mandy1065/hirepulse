@@ -1,2 +1,2 @@
-job_seekers = []
-online_status = {}
+jobs = []
+applications = {}  # key: job_id, value: list of applications
